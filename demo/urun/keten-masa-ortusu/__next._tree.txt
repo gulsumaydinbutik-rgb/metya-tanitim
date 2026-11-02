@@ -1,0 +1,10 @@
+:HL["/metya-tanitim/_next/static/chunks/3z4-jwi9p2gkk.css","style"]
+:HL["/metya-tanitim/_next/static/media/1d0bb6ba8433fca1-s.p.2zyohmvb-ks7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/_next/static/media/9f5a2b9f13a4ecbb-s.p.35a5cae5tspm2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"id","t":"d","k":"keten-masa-ortusu","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"urun","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"demo","h":96,"c":"$Q2"}]]
+0:{"b":"KW4YOSI3NRd94LjSYw6Fb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

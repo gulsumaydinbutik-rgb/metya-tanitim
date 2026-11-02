@@ -1,0 +1,11 @@
+:HL["/metya-tanitim/_next/static/chunks/3z4-jwi9p2gkk.css","style"]
+:HL["/metya-tanitim/_next/static/media/1d0bb6ba8433fca1-s.p.2zyohmvb-ks7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/_next/static/media/9f5a2b9f13a4ecbb-s.p.35a5cae5tspm2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/metya-tanitim/demo/kapak.webp","image"]
+:HL["/metya-tanitim/demo/keten-gomlek-1.webp","image"]
+:HL["/metya-tanitim/demo/yazlik-elbise-1.webp","image"]
+:HL["/metya-tanitim/demo/pamuklu-tisort-1.webp","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"KW4YOSI3NRd94LjSYw6Fb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

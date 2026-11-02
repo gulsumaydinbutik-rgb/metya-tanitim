@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:"/metya-tanitim/_next/static/chunks/2mcjo_dc-o9ss.js"
+3:I[43567,["$2"],"default"]
+4:I[73902,["$2"],"default"]
+5:"/metya-tanitim/_next/static/chunks/0tay0fcht8o07.js"
+6:I[94155,["$2","$5"],""]
+a:I[33054,["$2"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:"ViewportBoundary"
+e:I[33054,["$2"],"$d"]
+10:"MetadataBoundary"
+11:I[33054,["$2"],"$10"]
+13:I[29515,["$2"],"default",1]
+:HL["/metya-tanitim/_next/static/chunks/3z4-jwi9p2gkk.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"flex flex-1 flex-col items-center justify-center gap-4 p-8 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Sayfa bulunamadı"}],["$","$L6",null,{"href":"/","className":"underline underline-offset-4","children":"Qelvo ana sayfasına dön"}]]}],[["$","script","script-0",{"src":"/metya-tanitim/_next/static/chunks/0tay0fcht8o07.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":false,"v":null}}]]
+7:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/metya-tanitim/_next/static/chunks/3z4-jwi9p2gkk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/metya-tanitim/_next/static/chunks/2mcjo_dc-o9ss.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"RZ6oaW_variable QsdtYq_variable h-full scroll-smooth antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"flex flex-1 flex-col items-center justify-center gap-4 p-8 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Sayfa bulunamadı"}],["$","$L6",null,{"href":"/","className":"underline underline-offset-4","children":"Qelvo ana sayfasına dön"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$Le",null,{"children":"$Lf"}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":"$L12"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$13",[["$","link","0",{"rel":"stylesheet","href":"/metya-tanitim/_next/static/chunks/3z4-jwi9p2gkk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"KW4YOSI3NRd94LjSYw6Fb"}
+8:C
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+14:I[36262,["$2"],"IconMark"]
+c:null
+12:[["$","title","0",{"children":"Qelvo — İşini dijitale taşı"}],["$","meta","1",{"name":"description","content":"Küçük işletmeler için online mağaza ve dijital ticaret altyapısı. Ürünlerinizi, siparişlerinizi ve müşterilerinizi tek panelden yönetin."}],["$","link","2",{"rel":"icon","href":"/metya-tanitim/icon.svg?icon.2ahmz7y01_d41.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","3",{}]]
